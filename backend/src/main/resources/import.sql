@@ -217,4 +217,4 @@ INSERT INTO tb_record (game_id, name, age, moment) VALUES (10, 'Filipe', 38, TIM
 INSERT INTO tb_record (game_id, name, age, moment) VALUES (3, 'Tulio', 27, TIMESTAMP WITH TIME ZONE '2020-07-29T22:41:07Z');
 INSERT INTO tb_record (game_id, name, age, moment) VALUES (12, 'Alex', 27, TIMESTAMP WITH TIME ZONE '2020-06-14T21:05:20Z');
 INSERT INTO tb_record (game_id, name, age, moment) VALUES (1, 'Aline', 24, TIMESTAMP WITH TIME ZONE '2020-05-06T21:06:39Z');
-INSERT INTO tb_record (game_id, name, age, moment) VALUES (3, 'Erico', 36, TIMESTAMP WITH TIME ZONE '2020-06-01T14:24:21Z');
+INSERT INTO tb_record (game_id, name, age, moment) VALUES (3, 'Erico', 36, TIMESTAMP WITH TIME ZONE '2020-06-01T14:24:21Z')
